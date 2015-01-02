@@ -8,7 +8,11 @@ The raw data is published in Excel files in a human reader oriented manner. The 
 About the Project
 ------
 
-Conservation in the Delta has to be different because one practice does not fit everyone, one program will not work for everybody.  __The DCDC is a 638-acre working farm that demonstrates sound management practices that save water and keep the soil on the field for Delta farmers.__  The DCDC shows alternative cropping and tillage systems with limited tillage and crop rotations.  The DCDC’s purpose is to demonstrate the benefits of field buffers:  grassed waterways, field borders, and filter strips.  Also, the Center shows various applicable water conservation and water quality practices.  There are plant material utilization demonstrations, along with wildlife and pollinator habitat demonstrations.  _They are very tour-friendly, and they invite you to visit the farm [[DCDC Overview] [1]](http://www.dcdcfarm.org/fielddata2.htm)!_
+Conservation in the Delta has to be different because one practice does not fit everyone, one program will not work for everybody.  __The DCDC is a 638-acre working farm that demonstrates sound management practices that save water and keep the soil on the field for Delta farmers.__  The DCDC shows alternative cropping and tillage systems with limited tillage and crop rotations.
+
+The DCDC’s purpose is to demonstrate the benefits of field buffers:  grassed waterways, field borders, and filter strips.  Also, the Center shows various applicable water conservation and water quality practices.  There are plant material utilization demonstrations, along with wildlife and pollinator habitat demonstrations.
+
+_They are very tour-friendly, and they invite you to visit the farm [[DCDC Overview] [1]](http://www.dcdcfarm.org/fielddata2.htm)!_
 
 
 Links
