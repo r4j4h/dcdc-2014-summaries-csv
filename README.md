@@ -1,12 +1,14 @@
 dcdc-2014-summaries-csv
 =======================
 
-Data Files for easy access to currently published Delta Conservation Demonstration Center project and field data for 2014 and prior.
+CSV/JSON Data Files for easy access to currently published Delta Conservation Demonstration Center project and field data for 2014 and prior.
+
+The raw data is published in Excel files in a human reader oriented manner. The original author of this repository wished to display this data with interactive charting and desired them in more data oriented formats, specifically oriented for use with libraries such as [D3 [2]](https://github.com/mbostock/d3) and [Crossfilter [3]](https://github.com/square/crossfilter).
 
 About the Project
 ------
 
-Conservation in the Delta has to be different because one practice does not fit everyone, one program will not work for everybody.  __The DCDC is a 638-acre working farm that demonstrates sound management practices that save water and keep the soil on the field for Delta farmers.__  The DCDC shows alternative cropping and tillage systems with limited tillage and crop rotations.  The DCDC’s purpose is to demonstrate the benefits of field buffers:  grassed waterways, field borders, and filter strips.  Also, the Center shows various applicable water conservation and water quality practices.  There are plant material utilization demonstrations, along with wildlife and pollinator habitat demonstrations.  _They are very tour-friendly, and they invite you to visit the farm!_ [1]
+Conservation in the Delta has to be different because one practice does not fit everyone, one program will not work for everybody.  __The DCDC is a 638-acre working farm that demonstrates sound management practices that save water and keep the soil on the field for Delta farmers.__  The DCDC shows alternative cropping and tillage systems with limited tillage and crop rotations.  The DCDC’s purpose is to demonstrate the benefits of field buffers:  grassed waterways, field borders, and filter strips.  Also, the Center shows various applicable water conservation and water quality practices.  There are plant material utilization demonstrations, along with wildlife and pollinator habitat demonstrations.  _They are very tour-friendly, and they invite you to visit the farm [[DCDC Overview] [1]](http://www.dcdcfarm.org/fielddata2.htm)!_
 
 
 
@@ -14,6 +16,8 @@ Sources
 ======
 
 1. [DCDC Project Overview](http://www.dcdcfarm.org/fielddata2.htm)
+2. [D3 (Data Driven Documents)](https://github.com/mbostock/d3)
+3. [Crossfilter](https://github.com/square/crossfilter)
 1. Raw Data
   1. 2014
     1. [Field and Rain Data](http://www.dcdcfarm.org/2014data/2014FieldandRainData.xls)
