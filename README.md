@@ -36,6 +36,30 @@ Sources
 Interesting Other Similary Related Data Sources
 ======
 
+1. [National Crop Residue Management Survey](http://www.ctic.purdue.edu/CRM/)
+  2. [Public National Summaries Data (1989-2008)](http://www.ctic.purdue.edu/CRM/crm_search/)
+2. [Mississippi Agricultural Statistics Home Page](http://www.nass.usda.gov/Statistics_by_State/Mississippi/index.asp) has the monthly Mississippi Ag Report which contains up-to-date statistics on crop acreage, yield, production and value; livestock inventory and value; crop and livestock prices and other farm related statistics.
+  3. 
+3. [Daily and weekly price charts for ag commodities traded on the Chicago Mercantile Exchange.](http://www.barchart.com/cme/cmeagr.htm)
+4. [The Agricultural & Food Policy Center @ Texas A&M University](https://www.afpc.tamu.edu/pubs/)
+  5. Example: [Economic Contributions of the US Cotton Industry to the US Economy](https://www.afpc.tamu.edu/pubs/2/634/RR-13-02.pdf)
+6. [Mississippi State University Department of Agricultural Economics](http://www.agecon.msstate.edu/whatwedo/commodity/index.asp)
+  7. [Programs](http://www.agecon.msstate.edu/whatwedo/commodity/programs.asp)
+  8. [Publications](http://www.agecon.msstate.edu/whatwedo/pubs.asp?sort=all)
+  9. [Links](http://www.agecon.msstate.edu/whatwedo/links.asp?sort=all)
+    9. Example: [Futures Market Quotes for Row Crops, Rice, and Wheat](http://www.cmegroup.com/market-data/delayed-quotes/commodities.html)
+    10. Example: [Livestock Price and Production Information](http://goo.gl/JQmYwx)
+11. [USDA National Agricutural Statistics Service](http://www.nass.usda.gov/Quick_Stats/)
+  12. [Quick Search](http://quickstats.nass.usda.gov/?long_desc__LIKE=&x=18&y=1)
+  12. [Quick Stats Lite](http://www.nass.usda.gov/Quick_Stats/Lite/)
+  13. [Quick Stats 2.0](http://quickstats.nass.usda.gov/)
+  14. [Data By Subject](http://www.nass.usda.gov/Statistics_by_Subject/index.php)
+  12. [Common User-sourced Pre-defined Queries](http://www.nass.usda.gov/Data_and_Statistics/Pre-Defined_Queries/index.asp)
+  12. [Mississippi Publications](http://www.nass.usda.gov/Statistics_by_State/Mississippi/Publications/index.asp)
+  13. [Mississippi County Estimates](http://www.nass.usda.gov/Statistics_by_State/Mississippi/Publications/County_Estimates/index.asp)
+  14. [2013 State Agriculture Overview](http://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=MISSISSIPPI)
+    15. Would be neat to see this data across all states combined in one interactive charting/table page.
+  16. [USDA Census of Agriculture](http://www.agcensus.usda.gov/Publications/2012/Full_Report/Census_by_State/Mississippi/index.asp)
 1. Planting Guides
   2. These are primarily verbal and pictoral, so some manual conversion would be neat.
   3. [Mississippi Planting Guide](http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_017068.pdf)
