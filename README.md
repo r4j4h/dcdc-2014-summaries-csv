@@ -48,6 +48,7 @@ Projects Using Data From Here
 Related Projects
 ----
 1. [DCDC Data Blob](https://github.com/r4j4h/dcdc-data-blob) - A collection of links to repositories like this for the DCDC project.
+2. [Notes and data on California water supply](https://github.com/vicapow/water-supply/) - Inspiration for this repository.
 
 Interesting Other Similary Related Data Sources
 ======
