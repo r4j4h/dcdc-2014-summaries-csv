@@ -33,3 +33,50 @@ Sources
   11. [2005 (Combined)](http://www.dcdcfarm.org/zips/DCDC%20Field%20Data%202005.zip)
 
 
+Interesting Other Similary Related Data Sources
+======
+
+1. Planting Guides
+  2. These are primarily verbal and pictoral, so some manual conversion would be neat.
+  3. [Mississippi Planting Guide](http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_017068.pdf)
+  4. [NCRS Plant Materials Program](http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_016955.pdf)
+  3. Metric Brainstorm
+    4. Category
+    4. Variety
+    6. Description
+      7. Text blurb
+      1. Potential data points
+        2. Origin country
+          2. Not always present, but would be nice. Could provide null for missing entries and manually filled in later?
+    1. Uses
+      2. Text based. Categorical?
+    1. Soil adaptation
+      2. Text based.
+      3. Potential data points
+      4.  MS zone of adapation classification/location data is sometimes provided
+    1. Varieties
+      2. Text based. Categorical/assocation-ripe.
+    1. Method of establishment
+      2. Text based. Categorical/assocation-ripe.
+    1. Seedbed preparation: Requires a clean, firm seedbed. Prepare seedbed by disking and
+    harrowing.
+    1. Planting rate
+      2. lbs/acre
+      3. Seed cover depth (inches)
+    1. Planting time
+      1. Date ranges
+      2. Text blob. Some different ordinal/categorical notes could be mined
+    1. Fertility requirements
+      1. Text blob. Some data could be mined.
+    5. pH requirements
+      6. Numerical! Plug in your field's numbers and look at what's left! :)
+    5. Companion Plants
+      6. Ripe for network/association/cluster diagrams
+    7. Management
+      8. Text blob. Some different ordinal/categorical notes could be mined, like `Ideal Grazing Time` could have like `Until good sod established` and `Do not graze below 3 inches` as entries in its domain.
+      9. 
+    4. Seed Production
+      5. Usually contains numerical ranges
+    5. Environmental Concerns
+      6. Text blurbs.. metrics could be useful for filtering and then perusing this data in a table.
+
